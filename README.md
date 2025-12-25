@@ -26,7 +26,7 @@
 
 5.  **Run database migrations and seed:**
     ```bash
-    php artisan migrate:fresh --seed
+    php artisan migrate
     ```
 9.  **Serve the application:**
     ```bash
